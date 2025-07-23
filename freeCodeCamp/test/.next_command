@@ -401,3 +401,4 @@ cd website
 mkdir client
 cd client
 mkdir assets
+cd assets

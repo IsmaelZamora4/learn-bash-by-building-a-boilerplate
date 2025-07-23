@@ -581,3 +581,5 @@ find -name footer.jpeg
 mv images/footer.jpeg client/assets/images/
 touch images/footer.jpeg
 mv images/footer.jpeg client/assets/images/
+tree
+find

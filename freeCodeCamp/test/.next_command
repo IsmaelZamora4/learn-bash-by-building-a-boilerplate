@@ -385,3 +385,4 @@ find
 mv index.js client/src
 cd website
 find
+find client

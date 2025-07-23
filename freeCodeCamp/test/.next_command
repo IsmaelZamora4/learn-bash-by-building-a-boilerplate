@@ -555,3 +555,6 @@ ls --color=auto
 cd website
 cd ..
 ls --color=auto
+find
+find -name src
+find -name images

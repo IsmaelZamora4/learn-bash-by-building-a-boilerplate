@@ -129,3 +129,5 @@ cd has
 ls --color=auto
 more README.md
 __vsc_prompt_cmd_original
+clear
+ls --color=auto

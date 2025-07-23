@@ -144,3 +144,6 @@ cd has
 pwd
 cd ../..
 cd has
+cd nod
+cd node_modules
+cd ..

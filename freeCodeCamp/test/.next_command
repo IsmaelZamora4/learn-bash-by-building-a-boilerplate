@@ -600,3 +600,4 @@ cd images
 touch background.jpg
 cd ..
 rm images/background.jpg
+rmdir images

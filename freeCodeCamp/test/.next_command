@@ -406,3 +406,20 @@ mkdir images
 cd images
 mv images/background.jpg client/assets/
 touch background.jpg
+cd website
+cd ..
+cd ..
+cd ..
+find
+pwd
+info
+cd ../../..
+cd workspace
+cd project
+cd website
+cd images
+cd client
+cd images
+cd assets
+cd images
+cd ../../..

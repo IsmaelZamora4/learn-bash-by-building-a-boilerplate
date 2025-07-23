@@ -584,3 +584,19 @@ mv images/footer.jpeg client/assets/images/
 tree
 find
 rmdir images
+rm images/background.jpg
+rm website/client/assets/images/background.jpg
+rm client/assets/images/background.jpg
+rm images/background.jpg
+rm images/background.jpg
+cd client
+cd assets
+cd images
+rm background.jpg
+cd ../..
+cd ..
+mkdir images
+cd images
+touch background.jpg
+cd ..
+rm images/background.jpg

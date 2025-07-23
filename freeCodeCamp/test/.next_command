@@ -363,3 +363,4 @@ git commit -m "Add background.jpg to website"
 git push origin main
 mv roboto.font roboto.woff
 ls --color=auto
+mv lato.font lato.ttf

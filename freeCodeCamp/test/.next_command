@@ -628,3 +628,4 @@ cd fonts
 touch roboto-bold.woff
 cd ../../..
 touch client/assets/fonts/roboto-bold.woff
+touch client/assets/fonts/roboto-light.woff

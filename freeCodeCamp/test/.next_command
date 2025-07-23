@@ -158,3 +158,4 @@ ls --color=auto
 CD WEBSITE
 cd webste
 cd website/
+ls --color=auto

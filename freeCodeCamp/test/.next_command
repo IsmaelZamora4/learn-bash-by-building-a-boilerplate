@@ -155,3 +155,6 @@ mdkir website
 mkdir website
 list
 ls --color=auto
+CD WEBSITE
+cd webste
+cd website/

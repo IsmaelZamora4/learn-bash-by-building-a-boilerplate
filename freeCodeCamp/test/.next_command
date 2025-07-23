@@ -489,3 +489,65 @@ rmdir client
 mkdir images
 cd images
 ls --color=auto
+mv header.png ..
+mv website/client/images/background.jpg website/images/
+rmdir website/client
+pwd
+ls --color=auto -l
+mkdir -p website/client/images
+mv header.png website/client/images/
+pwd
+mkdir -p website/client/images
+ls --color=auto -l website/client/images
+ls --color=auto -l website/images
+mkdir -p website/images
+ls --color=auto -l website/
+mv header.png website/images/
+ls --color=auto -l website/images
+ls --color=auto
+find . -name "header.png"
+mv ./header.png website/images/
+ls --color=auto *.png
+ls --color=auto -l *.png
+mv website/images/client/images/header.png website/
+touch header.png
+mv header.png website/images/
+mv header.png ..
+mv header.png
+mv header.png website
+mv header.png ..
+cd ..
+ls --color=auto
+cd images
+ls --color=auto
+cd website
+ls --color=auto
+cd ..
+ls --color=auto
+cd ..
+cd ../..
+ls --color=auto
+cd project
+ls --color=auto
+cd website
+ls --color=auto
+cd images
+ls --color=auto
+cd website
+rm -r images
+rm -r images
+cd ..
+rm -r images
+cd ../..
+rm -r images
+rm images
+mkdir images
+ls --color=auto
+ls --color=auto
+cd website
+mkdir images
+ls --color=auto
+cd images
+touch header.png
+ls --color=auto
+mv header.png ..

@@ -603,3 +603,11 @@ rm images/background.jpg
 rmdir images
 ls --color=auto
 mkdir client/assets/icons
+touch CodeAlly.svg
+rm CodeAlly.svg client/assets/icons
+__vsc_prompt_cmd_original
+mv CodeAlly.svg client/assets/icons/
+ls --color=auto
+touch CodeAlly.svg
+ls --color=auto
+mv CodeAlly.svg client/assets/icons/

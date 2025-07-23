@@ -203,3 +203,4 @@ pwd
 toch website/.gitignore
 touch website/.gitignore
 touch .gitignore
+ls --color=auto

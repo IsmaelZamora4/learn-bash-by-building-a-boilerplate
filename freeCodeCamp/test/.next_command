@@ -574,3 +574,6 @@ cd ..
 ls --color=auto
 cd /workspace/project/website
 mv header.png client/assets/images/
+find
+find . -name header.png
+find -name header.png

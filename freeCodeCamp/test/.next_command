@@ -558,3 +558,19 @@ ls --color=auto
 find
 find -name src
 find -name images
+mv header.png client/assets/images/
+cd /workspace/project/website
+mkdir -p client/assets/images
+mv images/header.png client/assets/images/
+ls --color=auto client/assets/images
+ls --color=auto
+cd client
+ls --color=auto
+cd assets
+ls --color=auto
+cd images
+cd ../..
+cd ..
+ls --color=auto
+cd /workspace/project/website
+mv header.png client/assets/images/

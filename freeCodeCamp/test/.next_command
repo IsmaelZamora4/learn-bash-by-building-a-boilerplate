@@ -614,3 +614,6 @@ mv CodeAlly.svg client/assets/icons/
 tree
 ls --color=auto
 find
+ls --color=auto
+touch CodeRoad.svg
+mv CodeRoad.svg client/assets/icons

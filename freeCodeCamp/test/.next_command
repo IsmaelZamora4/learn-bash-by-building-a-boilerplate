@@ -382,3 +382,4 @@ mv index.html client/src
 find
 find
 find
+mv index.js client/src

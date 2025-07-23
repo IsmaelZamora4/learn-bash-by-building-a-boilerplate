@@ -488,3 +488,4 @@ rmdir website/client
 rmdir client
 mkdir images
 cd images
+ls --color=auto

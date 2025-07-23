@@ -656,3 +656,4 @@ mv website website-boilerplate
 ls --color=auto
 cd /workspace/project
 ls --color=auto
+cp --help

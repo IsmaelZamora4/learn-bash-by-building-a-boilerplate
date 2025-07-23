@@ -621,3 +621,10 @@ touch freeCodeCamp.svg
 mv freeCodeCamp.svg client/assets/icons
 find
 mkdir client/assets/fonts
+cd client
+cd assets
+ls --color=auto
+cd fonts
+touch roboto-bold.woff
+cd ../../..
+touch client/assets/fonts/roboto-bold.woff

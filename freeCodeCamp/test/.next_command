@@ -583,3 +583,4 @@ touch images/footer.jpeg
 mv images/footer.jpeg client/assets/images/
 tree
 find
+rmdir images

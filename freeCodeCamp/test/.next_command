@@ -404,3 +404,5 @@ mkdir assets
 cd assets
 mkdir images
 cd images
+mv images/background.jpg client/assets/
+touch background.jpg
